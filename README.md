@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RIDECHAMP
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Python
-- 📫 Reach me @RIDECHAMP
+- 🌱 I’m currently Just learning
 
 <!---
 RIDECHAMP/RIDECHAMP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
